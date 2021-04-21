@@ -2,6 +2,7 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
+  - voila
   - numpy
   - psutil
   - toolz

@@ -2,6 +2,7 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
+  - pillow
   - numpy
   - psutil
   - toolz

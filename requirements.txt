@@ -9,5 +9,6 @@ bokeh
 scipy
 ipywidgets
 ipynb
+xarray
 rise
 voila
